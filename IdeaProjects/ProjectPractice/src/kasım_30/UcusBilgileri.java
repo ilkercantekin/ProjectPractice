@@ -1,3 +1,5 @@
+package kasım_30;
+
 import java.util.Scanner;
 
 public class UcusBilgileri {
@@ -32,7 +34,8 @@ public class UcusBilgileri {
     }
 
     int fiyatHesapla() {
-        return (int) (Math.random()*1000)
+
+        return (int) (Math.random()*1000);
         }
         private void tekYon() {
             System.out.println("kalkış noktasını giriniz :");
