@@ -1,4 +1,4 @@
-package day4_xpath_cssSelector;
+package day04_xpath_cssSelector;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
